@@ -11,4 +11,4 @@ def get_colors(image):
     dec_color = (color.rgb.r, color.rgb.g, color.rgb.b)
     rgb_colors.append(dec_color)
     
-    return rgb_colors
+  return rgb_colors
